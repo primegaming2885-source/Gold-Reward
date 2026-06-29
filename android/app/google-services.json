@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800756316354",
+    "project_id": "gold-reward-371d3",
+    "storage_bucket": "gold-reward-371d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800756316354:android:e54daf4128508f15de635b",
+        "android_client_info": {
+          "package_name": "Gold.Reward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800756316354-4rs2720o33ri4g4g24dj94rk7ukep3t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlTUG--XTcow4DoU5IaNvovUf0qhgs3EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800756316354-4rs2720o33ri4g4g24dj94rk7ukep3t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
